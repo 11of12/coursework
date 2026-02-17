@@ -1,4 +1,4 @@
-[EA: Experience - Center Point](https://byu.instructure.com/courses/32728/assignments/1300735)
+[EA: Experience - Center Point](https://byu.instructure.com/courses/32728/assignments/1300735) (COMPLETED)
 
 [EA: Judaism - Soferet (V) : REL C 351-003: World Religions](https://byu.instructure.com/courses/32728/quizzes/595575) (COMPLETED)
 
