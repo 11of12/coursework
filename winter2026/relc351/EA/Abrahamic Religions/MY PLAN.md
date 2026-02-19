@@ -4,16 +4,16 @@
 
 [EA: Experience - Catholic Mass](https://byu.instructure.com/courses/32728/assignments/1300734)(COMPLETED)
 
-[EA: Islam - Alaa Marabit (V): REL C 351-003: World Religions](https://byu.instructure.com/courses/32728/quizzes/595592) (12 mins)
 
-[EA: Judaism - Sara Hurwitz (V) : REL C 351-003: World Religions](https://byu.instructure.com/courses/32728/quizzes/595490) (17 mins)
 
 [EA: Islam - Koran by Heart (V): REL C 351-003: World Religions](https://byu.instructure.com/courses/32728/quizzes/595591) (COMPLETED)
 
 
 
 
-[EA: Christianity - Lin Zhao (A): REL C 351-003: World Religions](https://byu.instructure.com/courses/32728/quizzes/595570)
+[EA: Islam - Alaa Marabit (V): REL C 351-003: World Religions](https://byu.instructure.com/courses/32728/quizzes/595592) (12 mins)
+
+[EA: Judaism - Sara Hurwitz (V) : REL C 351-003: World Religions](https://byu.instructure.com/courses/32728/quizzes/595490) (17 mins)
 
 [EA: Judaism - Marcia Falk (V): REL C 351-003: World Religions](https://byu.instructure.com/courses/32728/quizzes/595520) (30 mins)
 
@@ -23,4 +23,6 @@
 
 [Nahid Angha – Spirit Matters Talk](https://spiritmatterstalk.com/nahid-angha/) (36 mins)
 
+
+[EA: Christianity - Lin Zhao (A): REL C 351-003: World Religions](https://byu.instructure.com/courses/32728/quizzes/595570)
 

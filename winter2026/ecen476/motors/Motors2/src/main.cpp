@@ -18,6 +18,7 @@ void setup(void) {
   TCCR1A = (1<<COM1A0);           // Toggle OC1A on compare match
   TCCR1B = (1<<WGM12) | (1<<CS10); // CTC mode, no prescaling (CS10 = 1)
   OCR1A = 10;                      // Initial OCR1A value to generate a pulse
+
 }
 
 void loop(void) {
