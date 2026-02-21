@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "GAZELEM_LOGO")(type "KiCad")(uri "${KIPRJMOD}/Graphics")(options "")(descr ""))
+)
