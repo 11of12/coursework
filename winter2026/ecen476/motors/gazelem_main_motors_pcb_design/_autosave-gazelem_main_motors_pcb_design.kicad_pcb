@@ -85,7 +85,7 @@
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting front back)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_5755f57b)
+			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -201,7 +201,7 @@
 		)
 		(property "Value" "LOGO"
 			(at 0.75 0 0)
-			(layer "F.SilkS")
+			(layer "B.SilkS")
 			(hide yes)
 			(uuid "790d24a8-de33-4124-b1eb-7ad73e4b7c74")
 			(effects
@@ -209,6 +209,7 @@
 					(size 1.5 1.5)
 					(thickness 0.3)
 				)
+				(justify mirror)
 			)
 		)
 		(property "Datasheet" ""
