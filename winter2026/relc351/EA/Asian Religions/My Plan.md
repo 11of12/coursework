@@ -2,10 +2,11 @@
  EA: Buddhism - Fleur Chambers (A) - 35 mins (COMPLETED)
  EA: Buddhism - Cheng Yen (R,V): Extremely Short reading. 12 mins video (COMPLETED)
  EA: Hinduism - Period. End of Sentence. (V): 26 mins (COMPLETED)
- EA: Buddhism - Buddha's Forgotten Nuns (V): 34 mins
+ EA: Buddhism - Daehaeng (R) - Extremely Short Reading (COMPLETED)
+ EA: Buddhism - Buddha's Forgotten Nuns (V): 34 mins (COMPLETED)
 EA: Buddhism - Sharon Salzberg (A)  - 41 mins, transcript available
   
- EA: Buddhism - Daehaeng (R) - Extremely Short Reading
+
  EA: Buddhism - Isaline Blew Horner (R): 1 page of reading
  EA: Hinduism - Prakash Kaur (R) : short reading
  EA: Chinese/Japanese Religions - Miko (R): short reading
