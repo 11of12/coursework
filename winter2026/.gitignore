@@ -7,3 +7,9 @@ __pycache__/
 .venv/
 
 .vscode
+
+**/archive/**
+**/Brass/**
+**/Keyboards/**
+**/Strings/**
+**/Winds/**
