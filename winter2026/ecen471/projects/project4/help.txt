@@ -1,0 +1,6 @@
+https://docs.pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html
+
+https://docs.pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html
+
+https://docs.pytorch.org/tutorials/beginner/basics/optimization_tutorial.html
+
