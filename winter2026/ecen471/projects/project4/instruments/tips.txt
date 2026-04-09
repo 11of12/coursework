@@ -1,0 +1,6 @@
+Best I have seen so far:
+keep 80% of inputs
+100% of CNN layers
+50% of full connected layers
+batch of 128
+lr=5e-3, momentum=0.3
